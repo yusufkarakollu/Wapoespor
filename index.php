@@ -7,7 +7,7 @@
     <title>Wapo Esports</title>
 </head>
 
-<body class="bg-dark">
+<body>
     <?php
     include "./pages/head.php"
     ?>
